@@ -1,2 +1,3 @@
 User-agent: *
-Disallow: /normal-calc
+Disallow: /normal-calc/
+Disallow: /flg-wordpress-archive/
